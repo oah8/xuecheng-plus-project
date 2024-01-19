@@ -1,0 +1,8 @@
+### 申请验证码
+POST {{checkcode_host}}/checkcode/pic
+
+### 申请验证码
+POST 47.115.204.226:63075/checkcode/pic
+
+### 校验验证码
+POST {{checkcode_host}}/checkcode/verify?key=checkcode:2ca400141f354e77948ebf3322d4ee78&code=52ML
